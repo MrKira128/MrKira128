@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<--
 <h1 align="center">Hi 👋, I'm Ahmed Kira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahm3dkira&label=Profile%20views&color=0e75b6&style=flat" alt="ahm3dkira" /> </p>
 
@@ -31,3 +32,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahm3dkira&show_icons=true&locale=en" alt="ahm3dkira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3dkira&" alt="ahm3dkira" /></p>
+-->
